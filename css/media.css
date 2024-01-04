@@ -1,0 +1,707 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+.text_logo {
+    font-size: 16px;
+	}
+.menu ul li a {
+	font-size: 15px;
+    text-align: right;
+    padding-right: 0 !important;
+    padding-bottom: 0px !important;
+	}
+.search_btn {
+    display: flex;
+    justify-content: flex-end;
+	}	
+
+/*banner start*/
+.b_content h2 {
+    font-size: 28px;
+	}
+.b_content p {
+    padding: 20px 10px 30px 0;
+	}	
+.com_btn {
+    font-size: 16px;
+	}
+.b_content a span i {
+    padding: 7px 0 0 14px;
+	}
+.search_btn {
+    padding-top: 0;
+	}
+/*welcome start*/
+.welcome {
+    padding-bottom: 50px;
+	}
+.shape {
+    height: 40px;
+	}
+.w_h1 {
+    padding-top: 15px;
+    font-size: 25px;
+    word-spacing: 3px;
+	}	
+.welcome_text {
+    padding: 20px 0 0;
+	}	
+.welcome_item {
+    margin-top: 50px;
+	}
+.w_p {
+    margin: 22px;
+	}
+.w_icon {
+    left: 95px;
+	}	
+.more_btn {
+    margin: 15px 0 10px;
+	}	
+/*about start*/
+.about {
+    padding-bottom: 50px;
+	}
+.ab_img {
+    text-align: center;
+	}
+.ab_text {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 0;
+	}	
+.ab_p {
+    margin: 10px 0;
+	}
+
+/*recent start*/
+.r_tab {
+    padding: 50px 0 60px;
+	}
+.r_menu li button {
+    margin: 0 2px;
+    padding: 4px 10px;
+}	
+/*recent end*/
+/*choose start*/
+.choose {
+    padding-bottom: 70px;
+}
+.w_h1 {
+    font-size: 24px;
+    word-spacing: 0;
+}
+.c_item {
+    margin-top: 50px;
+    text-align: center;
+}
+.c_icon {
+    font-size: 40px;
+    left: 30px;
+    top: -8px;
+}
+.c_p {
+    margin: 30px 0;
+}
+.choose {
+    padding-bottom: 50px;
+}
+
+/*price start*/
+.price {
+    padding-bottom: 50px;
+}
+/*price end*/
+/*nipro responsive start*/
+.c_action {
+    padding: 20px 0;
+}
+.cta_text h2 {
+    text-align: center;
+    font-size: 16px;
+}
+.cta_btn {
+    text-align: center !important;
+}
+/*nipro item end*/
+/*who work start*/
+.work {
+    padding-bottom: 30px;
+}
+/*who work end*/
+/*testimonial start*/
+.testimonial {
+    padding: 50px 0;
+}
+.cus_car {
+    text-align: center;
+}
+.testimoni_text {
+    padding-top: 10px;
+}
+.tt_p {
+    margin: 10px 0 !important;
+}
+.cus_testimoni {
+    padding: 16px;
+}
+.testimonial_btn {
+    margin-top: 10px;
+    text-align: center;
+    padding: 0px 0px;
+    writing-mode: horizontal-tb;
+}
+.prev_btn {
+    margin: 0 0px 0 35px;
+}
+.next_btn {
+    margin: 0 35px 0 0;
+}
+/*testimonial end*/
+/*contact us start*/
+.contact {
+    padding-bottom: 50px;
+}
+.contact_t {
+    left: 75px;
+}
+.contact_form {
+    padding: 25px 20px;
+}
+.cus_form {
+    padding: 8px 0 15px 20px;
+}
+.cus_mass {
+    padding: 10px 0 20px 20px !important;
+}
+.contact_btn {
+    margin-top: 20px !important;
+}
+/*contact us end*/
+/*footer top start*/
+.footer_text {
+    padding: 15px 0px 30px 0px;
+}
+.footer_icon ul li a i {
+    width: 38px;
+    height: 38px;
+    padding-top: 10px;
+    font-size: 18px;
+}
+.footer_top {
+    padding: 0 0 40px 0;
+}
+/*footer top end*/
+
+/*footer bottom start*/
+.footer_bottom {
+    padding: 25px 0;
+}
+.fb_p {
+    text-align: center;
+    padding: 0 8px 15px;
+    color: #fff;
+}
+.fb_menu {
+    text-align: left;
+}
+.fb_menu ul li {
+    padding-right: 5px;
+}
+/*footer bottom end*/
+/*footer end*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/
+header {
+    padding-bottom: 10px;
+	}
+.text_logo {
+    font-size: 23px;
+	}
+.menu ul li a {
+	padding-bottom: 0;
+    text-align: right;
+    padding-right: 0 !important;
+	}
+.search_btn {
+    display: flex;
+    justify-content: flex-end;
+	}	
+
+/*banner start*/
+.b_content h2 {
+    font-size: 46px;
+	}
+.b_content p {
+    padding: 30px 32px 35px 0;
+    line-height: 23px;
+	}	
+.com_btn {
+    font-size: 16px;
+	}
+.b_content a span i {
+    padding: 7px 0 0 14px;
+	}	
+.search_btn {
+    padding-top: 0;
+	}	
+/*welcome start*/
+.welcome {
+    padding-bottom: 50px;
+}
+.welcome_item {
+    margin-top: 70px;
+	}
+.w_p {
+    margin: 0;
+	}
+.w_icon {
+    left: 80px;
+	}	
+.more_btn {
+    margin: 20px 0 15px;
+	}
+/*about start*/
+.about {
+    padding-bottom: 50px;
+	}
+.ab_img {
+    text-align: center;
+	}
+.ab_text {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 0;
+	}	
+.ab_p {
+    margin: 10px 8px;
+	}
+
+/*	recent start*/
+.r_tab {
+    padding: 70px 0 60px;
+}
+.r_menu li button {
+    padding: 0 12px;
+	}
+/*recent end*/
+
+/*choose start*/
+.w_h1 {
+    font-size: 24px;
+    word-spacing: 0;
+}
+.c_item {
+    margin-top: 60px;
+}
+.c_p {
+    margin: 30px 0;
+}
+.choose {
+    padding-bottom: 50px;
+}
+
+/*price start*/
+.price {
+    padding-bottom: 60px;
+}
+/*price end*/
+/*nipro item start*/
+.com_btn {
+    font-size: 16px;
+}
+/*nipro item start*/
+/* who work start*/
+.work_custom {
+    padding-top: 30px;
+}
+/*who work end*/
+/*testimonial start*/
+.testimonial {
+    padding: 50px 0;
+}
+.cus_car {
+    text-align: center;
+}
+.testimoni_text {
+    padding-top: 10px;
+}
+.tt_p {
+    margin: 15px 0 !important;
+}
+.t_q {
+    position: absolute;
+    left: 126px;
+    top: 30px;
+}
+.cus_testimoni {
+    padding: 16px;
+}
+.testimonial_btn {
+    margin-top: 10px;
+    display: flex;
+    padding: 10px 12px;
+    justify-content: center;
+    writing-mode: horizontal-tb;
+}
+.prev_btn {
+    margin: 0 100px 0 -60px;
+}
+.next_btn {
+    margin: 0px -10px 0 85px;
+}
+/*testimonial end*/
+/*contact us start*/
+.contact {
+    padding-bottom: 50px;
+}
+.contact_t {
+    left: 190px;
+}
+.contact_form {
+    padding: 15px 20px;
+}
+.cus_form {
+    padding: 30px 0 10px 20px;
+}
+/*contact us end*/
+/*footer top start*/
+.footer_text {
+    padding: 30px 130px;
+}
+/*footer top end*/
+
+/*footer bottom start*/
+.fb_p {
+    text-align: center;
+}
+.fb_menu {
+    padding-top: 10px;
+    text-align: center;
+}
+/*footer bottom end*/
+/*footer end*/
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a {
+    text-align: right;
+    padding-right: 0 !important;
+	}
+.search_btn {
+    display: flex;
+    justify-content: flex-end;
+	}	
+
+/*banner start*/
+.b_content h2 {
+    font-size: 35px;
+	}
+.b_content p {
+    padding: 40px 35px 45px 0;
+    line-height: 24px;
+	}	
+.com_btn {
+    font-size: 18px;
+	}	
+/*welcome start*/
+.w_icon {
+    left: 120px;
+	}
+.more_btn {
+    margin: 25px 0 20px;
+	}
+.welcome_item {
+    margin-top: 50px;
+}
+.welcome {
+    padding-bottom: 70px;
+}
+/*about start*/
+.about {
+    padding-bottom: 80px;
+	}
+.ab_img {
+    text-align: center;
+	}
+.ab_text {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 0;
+	}	
+.ab_p {
+    margin: 20px 16px;
+	}
+
+/*recent start*/
+.r_tab {
+    padding: 80px 0 70px;
+}
+/*recent end*/
+
+/*price start*/
+.price {
+    padding-bottom: 60px;
+}
+.pr_t h3 {
+    left: 113px;
+}
+/*price end*/
+/*chose start*/
+
+.choose {
+    padding-bottom: 60px;
+}
+.c_item {
+    margin-top: 70px;
+}
+/*choose end*/
+/* who work start*/
+
+/*who work end*/
+/*nipro item start*/
+.cta_btn {
+/*    margin-top: 10px;*/
+}
+/*nipro item start*/
+.cta_text h2 {
+    font-size: 18px;
+    text-align: start;
+}
+.cta_btn {
+    margin-top: -5px;
+}
+/*nipro item end*/
+/*testimonial start*/
+.testimonial {
+    padding: 60px 0;
+}
+.cus_testimoni {
+    padding: 16px;
+}
+.testimonial_btn {
+    margin-top: 10px;
+    display: flex;
+    padding: 10px 12px;
+    justify-content: center;
+    writing-mode: horizontal-tb;
+}
+.prev_btn {
+    margin: 0 100px 0 -60px;
+}
+.next_btn {
+    margin: 0px -10px 0 85px;
+}
+/*testimonial end*/
+
+/*contact us start*/
+.contact {
+    padding-bottom: 60px;
+}
+.contact_t {
+    left: 251px;
+}
+.contact_form {
+    padding: 40px 80px;
+}
+/*contact us end*/
+/*footer top start*/
+.footer_text {
+    padding: 30px 0px 30px 0px;
+}
+/*footer top end*/
+
+/*footer bottom start*/
+.fb_p {
+    text-align: center;
+}
+.fb_menu {
+    padding-top: 10px;
+    text-align: center;
+}
+/*footer bottom end*/
+/*footer end*/
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*	header start*/
+.text_logo {
+    font-size: 26px;
+	}
+	.menu ul li a {
+    padding-right: 22px !important;
+	}
+/* banner start*/
+.b_content h2 {
+    font-size: 50px;
+	}
+.b_content p {
+    padding: 40px 0px 45px 0;
+	}	
+
+/*	welcome start*/
+.w_icon {
+    left: 65px;
+	}
+
+/*about start*/
+.ab_p {
+    margin: 10px 0 15px;
+    line-height: 26px;
+	}
+
+/*choose start*/
+.w_h1 {
+    word-spacing: 0;
+}
+ 
+/*nipro item start*/
+.cta_text h2 {
+    font-size: 18px;
+    text-align: start;
+}
+.buy_btn {
+    margin-top: 0;
+}
+/*nipro item end*/
+
+/*who work start*/
+.w_h1 {
+    font-size: 29px;
+}
+.m_text {
+    padding: 10px 0px;
+}
+/*who work end*/
+
+/*testimonial start*/
+.cus_testimoni {
+    padding: 21px;
+}
+.tt_p {
+    margin: 15px 0 !important;
+}
+.testimonial_btn {
+    padding: 16px 20px;
+}
+/*testimonial end*/
+
+/*footer top start*/
+.footer_text {
+    padding: 30px 50px 30px 35px;
+}
+/*footer top end*/
+
+/*footer bottom start*/
+.fb_p {
+    font-size: 14px;
+}
+.fb_p a {
+    font-size: 15px !important;
+}
+/*footer bottom end*/
+/*footer end*/
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+/*nipro item start*/
+.cta_text h2 {
+    font-size: 18px;
+    text-align: start;
+}
+.buy_btn {
+    margin-top: 0;
+}
+/*nipro item end*/
+/*testimonial start*/
+.cus_testimoni {
+    padding: 20px 20px 8px 20px;
+}
+.t_name {
+    font-size: 22px;
+}
+.t_h3 {
+    font-size: 20px;
+}
+.t_p1 {
+    font-size: 18px;
+}
+.testimonial_btn {
+    padding: 24px 20px;
+}
+/*testimonial end*/
+/*footer top start*/
+.footer_text {
+    padding: 30px 81px 30px 76px;
+}
+/*footer top end*/
+
+/*footer bottom start*/
+
+/*footer bottom end*/
+/*footer end*/
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+/*	banner start*/
+.b_content p {
+    padding: 45px 170px 45px 0;
+	}
+.w_icon {
+    left: 110px;
+	}
+
+/*nipro item start*/
+.cta_text h2 {
+    font-size: 18px;
+    text-align: start;
+}
+.buy_btn {
+    margin-top: 0;
+    padding: 10px 15px;
+}
+/*nipro item end*/
+
+/*testimonial start*/
+.cus_testimoni {
+    padding: 20px;
+}
+.t_name {
+    font-size: 22px;
+}
+.t_h3 {
+    font-size: 20px;
+}
+.t_p1 {
+    font-size: 18px;
+}
+.testimonial_btn {
+    padding: 41px 20px;
+}
+/*testimonial end*/
+
+/*footer start*/
+
+/*footer top start*/
+.footer_text {
+    padding: 30px 130px;
+}
+/*footer top end*/
+
+/*footer bottom start*/
+
+/*footer bottom end*/
+/*footer end*/
+
+ }
